@@ -109,13 +109,12 @@ These are computed as a function of model order, and the model with the minimum 
 
 ## 📚 References
 
-- Ljung, L. (1999). *System Identification: Theory for the User*. Prentice-Hall.
 - Course notes – Learning and Estimation of Dynamical Systems
 
 ---
 
 ## 👨‍💻 Author
 
-Nicholas – Politecnico di Milano  
+Nicholas Gioia – Università di Bologna
 Course: Learning and Estimation of Dynamical Systems  
-Academic Year: 2024/2025
+Academic Year: 2023/2024
