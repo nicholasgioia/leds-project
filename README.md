@@ -116,5 +116,6 @@ These are computed as a function of model order, and the model with the minimum 
 ## 👨‍💻 Author
 
 Nicholas Gioia – Università di Bologna
+
 Course: Learning and Estimation of Dynamical Systems  
 Academic Year: 2023/2024
